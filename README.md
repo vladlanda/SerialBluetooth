@@ -4,7 +4,6 @@ Based on Android-BluetoothSPPLibrary : https://github.com/akexorcist/Android-Blu
 IMPORTANT : NOT WORKING with two connected android devices ONLY devices like : Android-Ardiuno or Android-PC and ect.
 
 Use :
-}
     public void onDataReceived(byte[] data, String message) {
         /*
         * Do whatever you need here.
