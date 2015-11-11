@@ -3,8 +3,7 @@ Simple serial bluetooth project to transfer text between two connected devices v
 Based on Android-BluetoothSPPLibrary : https://github.com/akexorcist/Android-BluetoothSPPLibrary
 IMPORTANT : NOT WORKING with two connected android devices ONLY devices like : Android-Ardiuno or Android-PC and ect.
 
-Use : 
-    @Override
+Use :
     public void onDataReceived(byte[] data, String message) {
         /*
         * Do whatever you need here.
